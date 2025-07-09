@@ -5,7 +5,6 @@ class ApiResponse {
     this.message = messsage;
     this.success = statusCode < 400;
   }
-  l̥;
 }
 
 export { ApiResponse };
